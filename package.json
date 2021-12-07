@@ -10,16 +10,17 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "buffer": "^6.0.3",
     "expo": "~43.0.2",
     "expo-status-bar": "~1.1.0",
+    "framer-motion": "^5.4.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "buffer": "^6.0.3"
   },
   "private": true
 }
